@@ -241,3 +241,6 @@ Crea una funzionalità che selezioni un elemento casuale dall'array "starWarsCha
 */
 let random = Math.ceil(Math.random()*starWarsCharacters.length)
 console.log('Ciao a tutti, fan di Star Wars! Il personaggio di oggi è ',starWarsCharacters[random].name,' è alto ', starWarsCharacters[random].height,'cm e pesa ',starWarsCharacters[random].mass,'kg. : )')
+
+
+console.log(typeof 5)
